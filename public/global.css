@@ -34,9 +34,10 @@ Global Styles
 }
 
 body {
-  font-family: "Catamaran", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: var(--mainBlack);
-  background: var(--mainGrey);
+  /* background: var(--mainGrey); */
+  background-color: #002a3c;
   line-height: 1.4;
   font-size: 1rem;
   font-weight: 300;
